@@ -29,14 +29,9 @@
 ## 👨‍💻 Tools & Platforms
 <p align="center"> 
 
-  ![Android](https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android)
-  ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
   ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
   ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) 
-  ![Kotlin](https://img.shields.io/badge/kotlin-000?style=for-the-badge&logo=kotlin)
-  ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-000000.svg?style=for-the-badge&logo=adobe%20illustrator)
-  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000000.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro)
-  ![Firebase](https://img.shields.io/badge/firebase-000000.svg?style=for-the-badge&logo=firebase)
+  ![Solidity](https://img.shields.io/badge/Solidity-black?logo=Solidity&style=for-the-badge)
 </p>
 
 ## 📈 Stats
