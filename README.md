@@ -8,7 +8,7 @@
 
 </div>
 
-- 👁️ I’m currently working on **DAO** .
+- 👁️ I’m currently working on **DE-fi** .
 
 - 🏫 I’m currently learning **NEXTjs and WEB3.js**
 
