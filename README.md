@@ -1,78 +1,77 @@
 <p align="center">
-<img align="center" alt="coding" width="170" src="https://github.com/Platypus96/Platypus96/blob/main/Platypus.jpg">
+  <img align="center" alt="coding" width="170" src="https://github.com/Platypus96/Platypus96/blob/main/Platypus.jpg">
 </p>
 
-<div align="center"> 
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Kumar!;" />
+</h1>
+
+<h3 align="center">A passionate Blockchain Developer from India</h3>
+
+<br/>
+
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=ff79c6&center=true&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BB%2C+I'm+Adarsh+Kumar;I'm+into+Blockchain+Development;%F0%9F%8E%A8+I+enjoy+Programming)](https://git.io/typing-svg)
+🔭 I’m currently working on **DE-fi Projects** <br/>
+🌱 I’m currently learning **NEXT.js and WEB3.js** <br/>
+💬 Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
+⚡ Fun fact: **I love coding and exploring decentralized systems!**
 
 </div>
 
-- 👁️ I’m currently working on **DE-fi** .
+<br/>
 
-- 🏫 I’m currently learning **NEXTjs and WEB3.js**
-
-- 👨‍💻 Checkout my Profile at <a href="https://www.linkedin.com/in/adarsh-kumar-6a403a297/">LinkedIn</a>
-
-- 💬 Ask me about **Blockchain Development, WEB3, CRYPTO**
-<br>
-
-<h3 align="center">📫 Reach out to me on</h3>
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/adarsh-kumar-6a403a297/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+<div align="center">
   <a href="mailto:adarshkr1375@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a target="_blank" href="https://t.me/Platypus_96">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <a target="_blank" href="https://medium.com/@iec2023040">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/adarsh-kumar-6a403a297/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://platypus96.github.io/Platypus96_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
 
-  
-## 👨‍💻 Tools & Platforms
-<p align="center"> 
+<br/>
+<hr/>
 
-  ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Solidity](https://img.shields.io/badge/Solidity-black?logo=Solidity&style=for-the-badge&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow)
-  ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
-  ![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=47A248)
-  ![Hardhat](https://img.shields.io/badge/Hardhat-black?style=for-the-badge&logo=hardhat&logoColor=3C3C3C)
-  ![Mocha](https://img.shields.io/badge/Mocha-black?style=for-the-badge&logo=mocha&logoColor=8D6748)
-  ![Chai](https://img.shields.io/badge/Chai-black?style=for-the-badge&logo=chai&logoColor=A30701)
-  ![Ethereum](https://img.shields.io/badge/Ethereum-black?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
-  ![Web3.js](https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=web3.js&logoColor=F16822)
-  ![Smart Contracts](https://img.shields.io/badge/Smart_Contracts-black?style=for-the-badge&logoColor=white)
-  ![IPFS](https://img.shields.io/badge/IPFS-black?style=for-the-badge&logo=ipfs&logoColor=white)
-
-</p>
-
-
-
-## 📈 Stats
-<!-- 🖤 GitHub Summary Section (Matte Black Style) -->
-<h2 align="center">📊 GitHub Stats & Highlights</h2>
+<h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
+<br/>
 
 <p align="center">
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Platypus96&theme=github_dark" />
-  &nbsp;&nbsp;
-  <img width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Platypus96&theme=github_dark" />
+  <img src="https://skillicons.dev/icons?i=solidity,react,tailwind,html,css,github,git,javascript,nodejs,mongodb,c,cpp" />
 </p>
 
 <p align="center">
-  <img width="83%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Platypus96&theme=github_dark" />
+  <img src="https://img.shields.io/badge/Web3.js-black?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat- black?style=for-the-badge&logo=ethereum&logoColor=black" />
 </p>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platypus96/Platypus96/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br/>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Platypus96&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Platypus96&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Platypus96&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+</div>
+
+<br/>
+<hr/>
 
 <h2 align="center">🧠 Daily Dev Quote</h2>
 
@@ -80,4 +79,11 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
+<br/>
 
+<!-- Optional: Ko-fi donation button (currently empty link) -->
+<div align="center">
+  <a href="https://ko-fi.com/your_kofi_username" target="_blank">
+    <!-- You can add your ko-fi button here if needed -->
+  </a>
+</div>
