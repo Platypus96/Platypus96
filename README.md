@@ -52,8 +52,13 @@
 <hr/>
 
 <div align="center">
+  
+![Profile views](https://komarev.com/ghpvc/?username=Platypus96&label=Profile%20views&color=0e75b6&style=flat)
+</div>
+
+
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br/>
   <img src="https://raw.githubusercontent.com/Platypus96/Platypus96/output/github-snake-dark.svg" />
 </div>
 
