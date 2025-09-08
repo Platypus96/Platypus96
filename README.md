@@ -13,9 +13,8 @@
 <div align="center">
   
 🔭 I’m currently working on **DE-fi Projects** <br/>
-🌱 I’m currently learning **NEXT.js and WEB3.js** <br/>
+🌱 Exploring **Solution to Blockchain Trilemma** <br/>
 💬 Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
-⚡ Fun fact: **I love coding and exploring decentralized systems!**
 
 </div>
 
