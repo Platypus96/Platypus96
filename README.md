@@ -13,7 +13,7 @@
 <div align="center">
   
 🔭 I’m currently working on **DE-fi Projects** <br/>
-🌱 Exploring **Solution to Blockchain Trilemma** <br/>
+🌱 Exploring **Solutions to Blockchain Trilemma** <br/>
 💬 Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
 
 </div>
