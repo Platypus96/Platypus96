@@ -6,14 +6,14 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Kumar!;" />
 </h1>
 
-<h3 align="center">A passionate Blockchain Developer from India</h3>
+<h3 align="center">Solution with Development, That's Awesome!</h3>
 
 <br/>
 
 <div align="center">
   
-🔭 I’m currently working on **DE-fi Projects** <br/>
-🌱 Exploring **Solutions to Blockchain Trilemma** <br/>
+🔭 I’m currently working on **Backend Development** <br/>
+🌱 Exploring **Agentic AI in Blockchain** <br/>
 💬 Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
 
 </div>
