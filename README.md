@@ -12,9 +12,9 @@
 
 <div align="center">
   
-🔭 I’m currently working on **Backend Development** <br/>
-🌱 Exploring **Agentic AI in Blockchain** <br/>
-💬 Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
+ I’m currently working on **Backend Development** <br/>
+ Exploring **Agentic AI in Blockchain** <br/>
+ Ask me about **Blockchain Development, WEB3, CRYPTO** <br/>
 
 </div>
 
