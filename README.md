@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adarsh+Kumar!;" />
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Parth+Chaurasia!;" />
 </h1>
 
 <h3 align="center">Solution with Development, That's Awesome!</h3>
@@ -20,10 +20,10 @@
 <br/>
 
 <div align="center">
-  <a href="mailto:adarshkr1375@gmail.com">
+  <a href="mailto:iec2023046@iiita.ac.in">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/adarsh-kumar-6a403a297/" target="_blank">
+  <a href="https://www.linkedin.com/in/parth-chaurasia-7a3365326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://platypus96.github.io/Platypus96_portfolio/" target="_blank">
